@@ -6,6 +6,15 @@ Official Skeleton for KidsConnectNET.com and all files related to it. Please rea
 - Open Sans
 - Arial
 - Cursive
+
+-
 Modify as needed.
 
 # Buttons
+- Red Button
+- Twitter Button
+- Blue Button
+- YouTube Button
+- Orange Button
+- Grey Button
+- Facebook Button
