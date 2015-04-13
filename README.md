@@ -1,7 +1,7 @@
 # KidsConnect
 Official Skeleton for KidsConnectNET.com and all files related to it. Please read the license - this is not available for public use...
 
-# Fonts:
+### Fonts:
 - Luckiest Guy
 - Open Sans
 - Arial
@@ -10,7 +10,7 @@ Official Skeleton for KidsConnectNET.com and all files related to it. Please rea
 -
 Modify as needed.
 
-# Buttons
+### Buttons
 - Red Button
 - Twitter Button
 - Blue Button
@@ -18,3 +18,8 @@ Modify as needed.
 - Orange Button
 - Grey Button
 - Facebook Button
+
+### Icons
+- Glyph
+- Round Icons
+- Find other 2D Vector Icons
